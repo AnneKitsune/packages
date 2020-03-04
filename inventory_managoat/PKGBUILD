@@ -1,4 +1,4 @@
-# Maintainer: jojolepro <jojolepro@jojolepro.com>
+# Maintainer: jojolepro <jojolepro[at]jojolepro[at]com>
 pkgname=inv
 _pkgcomplete=inventory-managoat
 pkgver=0.1.0
